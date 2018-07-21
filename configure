@@ -1,0 +1,1 @@
+./configure --prefix=/usr/local --disable-xim --disable-combining --disable-combining --disable-pixbuf --disable-startup-notification --disable-transparency --disable-fading --disable-next-scroll -disable-xterm-scroll --disable-perl --enable-256-color 
